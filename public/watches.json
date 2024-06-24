@@ -1,0 +1,7 @@
+[
+  { "id": 1, "name": "Timex Easy Reader", "price": 49.99 },
+  { "id": 2, "name": "Casio G-Shock", "price": 129.99 },
+  { "id": 3, "name": "Rolex Oyster Perpetual Datejust", "price": 8950 },
+  { "id": 4, "name": "Apple Watch Series 8", "price": 399 },
+  { "id": 5, "name": "Omega Speedmaster Professional (1969)", "price": 7500 }
+]
